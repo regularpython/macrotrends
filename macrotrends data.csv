@@ -1,0 +1,265 @@
+parameter,date,value
+Revenue,2019-12-31,137237.00000
+Revenue,2018-12-31,147049.00000
+Revenue,2017-12-31,145588.00000
+Revenue,2016-12-31,149184.00000
+Revenue,2015-12-31,135725.00000
+Revenue,2014-12-31,155929.00000
+Revenue,2013-12-31,155427.00000
+Revenue,2012-12-31,152256.00000
+Revenue,2011-12-31,150276.00000
+Revenue,2010-12-31,135592.00000
+Revenue,2009-12-31,104589.00000
+Revenue,2008-12-31,148979.00000
+Cost Of Goods Sold,2019-12-31,123265.00000
+Cost Of Goods Sold,2018-12-31,132954.00000
+Cost Of Goods Sold,2017-12-31,127357.00000
+Cost Of Goods Sold,2016-12-31,130153.00000
+Cost Of Goods Sold,2015-12-31,118299.00000
+Cost Of Goods Sold,2014-12-31,142121.00000
+Cost Of Goods Sold,2013-12-31,137373.00000
+Cost Of Goods Sold,2012-12-31,141443.00000
+Cost Of Goods Sold,2011-12-31,131171.00000
+Cost Of Goods Sold,2010-12-31,118920.00000
+Cost Of Goods Sold,2009-12-31,112195.00000
+Cost Of Goods Sold,2008-12-31,149257.00000
+Gross Profit,2019-12-31,13972.00000
+Gross Profit,2018-12-31,14095.00000
+Gross Profit,2017-12-31,18231.00000
+Gross Profit,2016-12-31,19031.00000
+Gross Profit,2015-12-31,17426.00000
+Gross Profit,2014-12-31,13808.00000
+Gross Profit,2013-12-31,18054.00000
+Gross Profit,2012-12-31,10813.00000
+Gross Profit,2011-12-31,19105.00000
+Gross Profit,2010-12-31,16672.00000
+Gross Profit,2009-12-31,-7606.00000
+Gross Profit,2008-12-31,-278.00000
+Research And Development Expenses,2019-12-31,
+Research And Development Expenses,2018-12-31,
+Research And Development Expenses,2017-12-31,
+Research And Development Expenses,2016-12-31,
+Research And Development Expenses,2015-12-31,
+Research And Development Expenses,2014-12-31,
+Research And Development Expenses,2013-12-31,
+Research And Development Expenses,2012-12-31,
+Research And Development Expenses,2011-12-31,
+Research And Development Expenses,2010-12-31,
+Research And Development Expenses,2009-12-31,
+Research And Development Expenses,2008-12-31,
+SG&A Expenses,2019-12-31,8491.00000
+SG&A Expenses,2018-12-31,9650.00000
+SG&A Expenses,2017-12-31,9570.00000
+SG&A Expenses,2016-12-31,10345.00000
+SG&A Expenses,2015-12-31,11888.00000
+SG&A Expenses,2014-12-31,12158.00000
+SG&A Expenses,2013-12-31,12382.00000
+SG&A Expenses,2012-12-31,14031.00000
+SG&A Expenses,2011-12-31,12163.00000
+SG&A Expenses,2010-12-31,11446.00000
+SG&A Expenses,2009-12-31,12167.00000
+SG&A Expenses,2008-12-31,14253.00000
+Other Operating Income Or Expenses,2019-12-31,
+Other Operating Income Or Expenses,2018-12-31,
+Other Operating Income Or Expenses,2017-12-31,
+Other Operating Income Or Expenses,2016-12-31,
+Other Operating Income Or Expenses,2015-12-31,
+Other Operating Income Or Expenses,2014-12-31,
+Other Operating Income Or Expenses,2013-12-31,
+Other Operating Income Or Expenses,2012-12-31,
+Other Operating Income Or Expenses,2011-12-31,
+Other Operating Income Or Expenses,2010-12-31,-118.00000
+Other Operating Income Or Expenses,2009-12-31,-1250.00000
+Other Operating Income Or Expenses,2008-12-31,-6699.00000
+Operating Expenses,2019-12-31,131756.00000
+Operating Expenses,2018-12-31,142604.00000
+Operating Expenses,2017-12-31,136927.00000
+Operating Expenses,2016-12-31,140498.00000
+Operating Expenses,2015-12-31,130187.00000
+Operating Expenses,2014-12-31,154399.00000
+Operating Expenses,2013-12-31,150296.00000
+Operating Expenses,2012-12-31,182619.00000
+Operating Expenses,2011-12-31,144620.00000
+Operating Expenses,2010-12-31,130484.00000
+Operating Expenses,2009-12-31,125612.00000
+Operating Expenses,2008-12-31,170209.00000
+Operating Income,2019-12-31,5481.00000
+Operating Income,2018-12-31,4445.00000
+Operating Income,2017-12-31,8661.00000
+Operating Income,2016-12-31,8686.00000
+Operating Income,2015-12-31,5538.00000
+Operating Income,2014-12-31,1530.00000
+Operating Income,2013-12-31,5131.00000
+Operating Income,2012-12-31,-30363.00000
+Operating Income,2011-12-31,5656.00000
+Operating Income,2010-12-31,5108.00000
+Operating Income,2009-12-31,-21023.00000
+Operating Income,2008-12-31,-21230.00000
+Total Non-Operating Income/Expense,2019-12-31,687.00000
+Total Non-Operating Income/Expense,2018-12-31,1941.00000
+Total Non-Operating Income/Expense,2017-12-31,1070.00000
+Total Non-Operating Income/Expense,2016-12-31,1040.00000
+Total Non-Operating Income/Expense,2015-12-31,640.00000
+Total Non-Operating Income/Expense,2014-12-31,622.00000
+Total Non-Operating Income/Expense,2013-12-31,517.00000
+Total Non-Operating Income/Expense,2012-12-31,106.00000
+Total Non-Operating Income/Expense,2011-12-31,329.00000
+Total Non-Operating Income/Expense,2010-12-31,629.00000
+Total Non-Operating Income/Expense,2009-12-31,123516.00000
+Total Non-Operating Income/Expense,2008-12-31,-8241.00000
+Pre-Tax Income,2019-12-31,6168.00000
+Pre-Tax Income,2018-12-31,6386.00000
+Pre-Tax Income,2017-12-31,9731.00000
+Pre-Tax Income,2016-12-31,9726.00000
+Pre-Tax Income,2015-12-31,6178.00000
+Pre-Tax Income,2014-12-31,2152.00000
+Pre-Tax Income,2013-12-31,5648.00000
+Pre-Tax Income,2012-12-31,-30257.00000
+Pre-Tax Income,2011-12-31,5985.00000
+Pre-Tax Income,2010-12-31,5737.00000
+Pre-Tax Income,2009-12-31,102493.00000
+Pre-Tax Income,2008-12-31,-29471.00000
+Income Taxes,2019-12-31,769.00000
+Income Taxes,2018-12-31,474.00000
+Income Taxes,2017-12-31,11533.00000
+Income Taxes,2016-12-31,2739.00000
+Income Taxes,2015-12-31,-1219.00000
+Income Taxes,2014-12-31,228.00000
+Income Taxes,2013-12-31,2127.00000
+Income Taxes,2012-12-31,-34831.00000
+Income Taxes,2011-12-31,-110.00000
+Income Taxes,2010-12-31,672.00000
+Income Taxes,2009-12-31,-2166.00000
+Income Taxes,2008-12-31,1766.00000
+Income After Taxes,2019-12-31,5399.00000
+Income After Taxes,2018-12-31,5912.00000
+Income After Taxes,2017-12-31,-1802.00000
+Income After Taxes,2016-12-31,6987.00000
+Income After Taxes,2015-12-31,7397.00000
+Income After Taxes,2014-12-31,1924.00000
+Income After Taxes,2013-12-31,3521.00000
+Income After Taxes,2012-12-31,4574.00000
+Income After Taxes,2011-12-31,6095.00000
+Income After Taxes,2010-12-31,5065.00000
+Income After Taxes,2009-12-31,104659.00000
+Income After Taxes,2008-12-31,-31237.00000
+Other Income,2019-12-31,
+Other Income,2018-12-31,
+Other Income,2017-12-31,
+Other Income,2016-12-31,
+Other Income,2015-12-31,
+Other Income,2014-12-31,
+Other Income,2013-12-31,
+Other Income,2012-12-31,
+Other Income,2011-12-31,
+Other Income,2010-12-31,
+Other Income,2009-12-31,
+Other Income,2008-12-31,
+Income From Continuous Operations,2019-12-31,6667.00000
+Income From Continuous Operations,2018-12-31,8075.00000
+Income From Continuous Operations,2017-12-31,330.00000
+Income From Continuous Operations,2016-12-31,9269.00000
+Income From Continuous Operations,2015-12-31,9590.00000
+Income From Continuous Operations,2014-12-31,4018.00000
+Income From Continuous Operations,2013-12-31,5331.00000
+Income From Continuous Operations,2012-12-31,6136.00000
+Income From Continuous Operations,2011-12-31,9287.00000
+Income From Continuous Operations,2010-12-31,6503.00000
+Income From Continuous Operations,2009-12-31,105217.00000
+Income From Continuous Operations,2008-12-31,-31051.00000
+Income From Discontinued Operations,2019-12-31,
+Income From Discontinued Operations,2018-12-31,-70.00000
+Income From Discontinued Operations,2017-12-31,-4212.00000
+Income From Discontinued Operations,2016-12-31,-1.00000
+Income From Discontinued Operations,2015-12-31,25.00000
+Income From Discontinued Operations,2014-12-31,
+Income From Discontinued Operations,2013-12-31,
+Income From Discontinued Operations,2012-12-31,
+Income From Discontinued Operations,2011-12-31,
+Income From Discontinued Operations,2010-12-31,
+Income From Discontinued Operations,2009-12-31,
+Income From Discontinued Operations,2008-12-31,
+Net Income,2019-12-31,6581.00000
+Net Income,2018-12-31,7916.00000
+Net Income,2017-12-31,-3880.00000
+Net Income,2016-12-31,9427.00000
+Net Income,2015-12-31,9687.00000
+Net Income,2014-12-31,2804.00000
+Net Income,2013-12-31,3770.00000
+Net Income,2012-12-31,4859.00000
+Net Income,2011-12-31,7585.00000
+Net Income,2010-12-31,4668.00000
+Net Income,2009-12-31,104690.00000
+Net Income,2008-12-31,-30943.00000
+EBITDA,2019-12-31,19599.00000
+EBITDA,2018-12-31,18114.00000
+EBITDA,2017-12-31,20922.00000
+EBITDA,2016-12-31,18505.00000
+EBITDA,2015-12-31,13025.00000
+EBITDA,2014-12-31,8768.00000
+EBITDA,2013-12-31,13172.00000
+EBITDA,2012-12-31,8399.00000
+EBITDA,2011-12-31,13243.00000
+EBITDA,2010-12-31,12173.00000
+EBITDA,2009-12-31,-5602.00000
+EBITDA,2008-12-31,-2317.00000
+EBIT,2019-12-31,5481.00000
+EBIT,2018-12-31,4445.00000
+EBIT,2017-12-31,8661.00000
+EBIT,2016-12-31,8686.00000
+EBIT,2015-12-31,5538.00000
+EBIT,2014-12-31,1530.00000
+EBIT,2013-12-31,5131.00000
+EBIT,2012-12-31,-30363.00000
+EBIT,2011-12-31,5656.00000
+EBIT,2010-12-31,5108.00000
+EBIT,2009-12-31,-21023.00000
+EBIT,2008-12-31,-21230.00000
+Basic Shares Outstanding,2019-12-31,1424.00000
+Basic Shares Outstanding,2018-12-31,1411.00000
+Basic Shares Outstanding,2017-12-31,1465.00000
+Basic Shares Outstanding,2016-12-31,1540.00000
+Basic Shares Outstanding,2015-12-31,1586.00000
+Basic Shares Outstanding,2014-12-31,1605.00000
+Basic Shares Outstanding,2013-12-31,1393.00000
+Basic Shares Outstanding,2012-12-31,1566.00000
+Basic Shares Outstanding,2011-12-31,1536.00000
+Basic Shares Outstanding,2010-12-31,1500.00000
+Basic Shares Outstanding,2009-12-31,1849.00000
+Basic Shares Outstanding,2008-12-31,579.00000
+Shares Outstanding,2019-12-31,1439.00000
+Shares Outstanding,2018-12-31,1431.00000
+Shares Outstanding,2017-12-31,1492.00000
+Shares Outstanding,2016-12-31,1570.00000
+Shares Outstanding,2015-12-31,1640.00000
+Shares Outstanding,2014-12-31,1687.00000
+Shares Outstanding,2013-12-31,1676.00000
+Shares Outstanding,2012-12-31,1675.00000
+Shares Outstanding,2011-12-31,1668.00000
+Shares Outstanding,2010-12-31,1624.00000
+Shares Outstanding,2009-12-31,1849.00000
+Shares Outstanding,2008-12-31,579.00000
+Basic EPS,2019-12-31,4.62000
+Basic EPS,2018-12-31,5.61000
+Basic EPS,2017-12-31,-2.65000
+Basic EPS,2016-12-31,6.12000
+Basic EPS,2015-12-31,6.11000
+Basic EPS,2014-12-31,1.75000
+Basic EPS,2013-12-31,2.71000
+Basic EPS,2012-12-31,3.10000
+Basic EPS,2011-12-31,4.94000
+Basic EPS,2010-12-31,3.11000
+Basic EPS,2009-12-31,56.62000
+Basic EPS,2008-12-31,-53.47000
+EPS - Earnings Per Share,2019-12-31,4.57000
+EPS - Earnings Per Share,2018-12-31,5.53000
+EPS - Earnings Per Share,2017-12-31,-2.60000
+EPS - Earnings Per Share,2016-12-31,6.00000
+EPS - Earnings Per Share,2015-12-31,5.91000
+EPS - Earnings Per Share,2014-12-31,1.65000
+EPS - Earnings Per Share,2013-12-31,2.38000
+EPS - Earnings Per Share,2012-12-31,2.92000
+EPS - Earnings Per Share,2011-12-31,4.58000
+EPS - Earnings Per Share,2010-12-31,2.89000
+EPS - Earnings Per Share,2009-12-31,56.62000
+EPS - Earnings Per Share,2008-12-31,-53.47000

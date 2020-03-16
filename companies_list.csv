@@ -1,0 +1,10 @@
+n,s,Ticker,Company,Status
+AAPL - Apple,AAPL/apple,AAPL,apple,0
+MSFT - Microsoft,MSFT/microsoft,MSFT,microsoft,0
+GOOG - Alphabet,GOOG/alphabet,GOOG,alphabet,0
+GOOGL - Alphabet,GOOGL/alphabet,GOOGL,alphabet,0
+AMZN - Amazon,AMZN/amazon,AMZN,amazon,0
+FB - Facebook,FB/facebook,FB,facebook,0
+BABA - Alibaba,BABA/alibaba,BABA,alibaba,0
+BRK.A - Berkshire Hathaway,BRK.A/berkshire-hathaway,BRK.A,berkshire-hathaway,0
+BRK.B - Berkshire Hathaway,BRK.B/berkshire-hathaway,BRK.B,berkshire-hathaway,0
