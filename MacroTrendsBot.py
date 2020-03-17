@@ -6,7 +6,7 @@ import pandas as pd
 from datetime import datetime
 import os
 import concurrent.futures
-
+import local_env
 
 class MacroTrends(RequestBot.Bot):
     def __init__(self):
@@ -41,7 +41,7 @@ class MacroTrends(RequestBot.Bot):
 
 def load_data(company):
     today = datetime.now().strftime('%m-%d-%Y')
-    folder_path = 'outputs/' + today
+    folder_path = local_env.output_path + today
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
     print(company)
